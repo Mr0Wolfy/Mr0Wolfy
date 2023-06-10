@@ -5,14 +5,20 @@
 
 ### :hammer_and_wrench: My technology stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="45" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="Scipy" alt="Scipy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="45" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter notebook" alt="Jupyter notebook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="scikit-learn" alt="scikit-learn" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=00008B"/>
+  <img src="https://img.shields.io/badge/scipy-black?style=for-the-badge&logo=scipy&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/anaconda-black?style=for-the-badge&logo=anaconda&logoColor=green"/>
+  <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/clickhouse-black?style=for-the-badge&logo=clickhouse&logoColor=yelow"/>
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>
+  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=blue"/>
+  
 </div>
 
 ---
