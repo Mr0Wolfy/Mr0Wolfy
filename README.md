@@ -1,5 +1,9 @@
-### Hi there 👋
+### Всем привет!
+Меня зовут Петров Андрей Константинович  
+Я junior Data Analytic/Data Scientist  
 
+Сейчас активно улучшаю свои навыки в области анализа данных и обработки естсественного языка(NLP)  
+На данный момент нахожусь в активном поиске работы  
 
 ---
 
@@ -13,7 +17,6 @@
   <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=orange"/>
   <img src="https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
   <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
   <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/clickhouse-black?style=for-the-badge&logo=clickhouse&logoColor=yelow"/>
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>
