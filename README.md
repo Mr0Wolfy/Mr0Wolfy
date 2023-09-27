@@ -5,8 +5,13 @@
 Сейчас активно улучшаю свои навыки в области анализа данных и обработки естсественного языка(NLP)  
 На данный момент нахожусь в активном поиске работы  
 
+<h1 align='center' pointer-events: none>
+  hey there
+
+</h1>
+
 ---
-<div id="badges" align="center">
+<div id="badges" align="center" pointer-events: none>
   <h1>
   Contact me / Связь со мной
   </h1>
