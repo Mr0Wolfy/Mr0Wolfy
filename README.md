@@ -6,8 +6,25 @@
 На данный момент нахожусь в активном поиске работы  
 
 ---
+<div id="badges" align="center">
+  <h1>
+  Contact me / Связь со мной
+  </h1>
+  <a href="https://vk.com/mr.w0lf">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <a href="https://web.telegram.org/k/#@Mr0Wolfy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+</div>
 
-### :hammer_and_wrench: My technology stack:
+
+
+
+---
+
+### :hammer_and_wrench: My technology stack / работаю с технологиями:
 <div>
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ЦВЕТ ЛОГОТИПА"/>
   <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=blue"/>
@@ -25,22 +42,14 @@
 </div>
 
 ---
+<div id="leetcode" align='center'>
+  <h2>
+    My LeetCode:
+  </h2>
+  <img src="https://leetcard.jacoblin.cool/Mr0Wolfy?ext=activity"/>
+</div>
 
-### My LeetCode:
 
-![](https://leetcard.jacoblin.cool/Mr0Wolfy?ext=activity)
 
-<!--
-**Mr0Wolfy/Mr0Wolfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
